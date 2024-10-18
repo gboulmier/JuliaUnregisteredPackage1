@@ -1,7 +1,7 @@
 # Functions
 
 ```@autodocs
-Modules = [RODEO]
+Modules = [JuliaUnregisteredPackage1]
 Order = [:function]
 Private = false
 ```

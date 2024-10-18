@@ -1,7 +1,7 @@
 # Types
 
 ```@autodocs
-Modules = [RODEO]
+Modules = [JuliaUnregisteredPackage1]
 Order = [:type]
 Private = false
 ```
